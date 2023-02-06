@@ -1,0 +1,25 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuttysark1010/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "study",
+    "it"
+  ],
+  "author": "Katya Saprykina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuttysark1010/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/cuttysark1010/hexlet-js#readme"
+}
